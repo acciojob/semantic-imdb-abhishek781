@@ -1,2 +1,25 @@
 
-/* Your CSS Code here. */
+  header {
+      text-align: center;
+      font-size: 2em;
+      font-weight: bold;
+    }
+    nav a {  
+text-decoration: none;
+      color: black;
+    }
+    .highlight {
+      font-weight: bold;
+    }
+    summary {
+      font-style: italic;
+    }
+    section {
+      margin: 20px;
+    }
+    aside {
+      font-size: 0.8em;
+    }
+    footer {
+      text-align: center;
+    }
