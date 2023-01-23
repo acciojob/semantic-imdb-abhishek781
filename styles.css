@@ -6,13 +6,14 @@
     }
     nav a {  
 text-decoration: none;
-      color: black;
+      top-margin:px ;
     }
     .highlight {
       font-weight: bold;
     }
     summary {
       font-style: italic;
+		margin-top:20px;
     }
     section {
       margin: 20px;
